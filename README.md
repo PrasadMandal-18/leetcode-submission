@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
