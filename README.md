@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0540-single-element-in-a-sorted-array) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0410-split-array-largest-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
