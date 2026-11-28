@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0367-valid-perfect-square) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0878-nth-magical-number](https://github.com/PrasadMandal-18/leetcode-submission/tree/master/0878-nth-magical-number) |
 ## Newton's Method
 |  |
